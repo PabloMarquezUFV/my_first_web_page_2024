@@ -54,11 +54,16 @@ nav a.active {
 }
 
 .footer-section {
-    max-width: 1000px;
     width: 100%;
     background-color: #333;
     color: white;
     text-align: center;
+    margin-top: 50px;
+}
+
+.footer-section p {
+    color: white;
+    margin: 20px;
 }
 
 .footer-section a {
